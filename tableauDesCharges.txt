@@ -19,3 +19,4 @@ faire un formulaire pour nous contacter
 mettre un son type soundclound
 mettre une vidéo type youtube
 vérifier avec l'inspecteur d'éléments qu'il n'y a pas d'images
+commentaire des collègues
