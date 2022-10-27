@@ -15,7 +15,7 @@ utiliser 1 tableau pour affichier des données
 // utiliser template
 // faire un formulaire pour nous contacter
 // 1 page pour se présenter et son CV
-1 page consacré à plein d'image nommé image.html
+// 1 page consacré à plein d'image nommé image.html
 // mettre un son type soundclound
 mettre une vidéo type youtube 
 vérifier avec l'inspecteur d'éléments qu'il n'y a pas d'images
