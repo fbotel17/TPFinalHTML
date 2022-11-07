@@ -1,0 +1,44 @@
+#bandeau{
+    font-size: 20px;
+    background-color: rgb(77, 158, 212);
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+#corps{
+    height: 500px;
+}
+
+#menu{
+    float: left;
+    height: 100%;
+    width: 35%;
+    background-color: rgb(229, 37, 236);
+    font-size: 30px;
+    line-height: 500px;
+    text-align: center;
+}
+
+
+#contenu{
+    float: left;
+    font-size: 30px;
+    height: 100%;
+    width: 65%;
+    line-height: 500px;
+    background-color: rgb(233, 236, 37);
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+#PiedDePage{
+    font-size: 20px;
+    height: 30px;
+    background-color: rgb(37, 236, 97);
+    text-align: center;
+    line-height: 30px;
+
+}
