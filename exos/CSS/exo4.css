@@ -1,4 +1,4 @@
-#bandeau{
+#bandeau {
     font-size: 20px;
     background-color: rgb(77, 158, 212);
     height: 30px;
@@ -6,17 +6,18 @@
     line-height: 30px;
 }
 
-#corps{
+#corps {
     height: 500px;
 }
 
-#menu{
+#menu {
     float: left;
     height: 100%;
     width: 35%;
     background-color: rgb(0, 0, 0);
 }
-#menuhaut{
+
+#menuhaut {
     float: left;
     height: 50%;
     font-size: 30px;
@@ -27,7 +28,8 @@
     line-height: 250px;
 
 }
-#menubas{
+
+#menubas {
     float: left;
     height: 50%;
     font-size: 30px;
@@ -38,7 +40,7 @@
 
 }
 
-#contenu{
+#contenu {
     float: left;
     font-size: 30px;
     height: 100%;
@@ -48,7 +50,7 @@
     vertical-align: middle;
 }
 
-#bloc{
+#bloc {
     float: right;
     position: static;
     font-size: 30px;
@@ -60,7 +62,7 @@
 
 }
 
-#PiedDePage{
+#PiedDePage {
     font-size: 30px;
     height: 30px;
     background-color: rgb(37, 236, 97);
@@ -69,6 +71,6 @@
 
 }
 
-#para{
+#para {
     font-size: 25px;
 }
