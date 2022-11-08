@@ -1,15 +1,15 @@
-pas de br
+// pas de br
 // 8 pages
-commenter et entete
+// commenter et entete
 // tester sur autre machine
 // alwaysdata
 // 15 commit minimum
 // ne pas utiliser de tableau pour la mise en pages
 // lien pas en local
-indenter son code
+// indenter son code
 // que du html css jvs
-savoir expliquer le code
-vérifier son code sur W3C pour les normes, il faut avoir 0 erreurs
+// savoir expliquer le code
+// vérifier son code sur W3C pour les normes, il faut avoir 0 erreurs
 // utiliser div
 // utiliser 1 tableau pour affichier des données
 // utiliser template
@@ -17,6 +17,6 @@ vérifier son code sur W3C pour les normes, il faut avoir 0 erreurs
 // 1 page pour se présenter et son CV
 // 1 page consacré à plein d'image nommé image.html
 // mettre un son type soundclound
-mettre une vidéo type youtube 
-vérifier avec l'inspecteur d'éléments qu'il n'y a pas d'erreurs
+// mettre une vidéo type youtube 
+// vérifier avec l'inspecteur d'éléments qu'il n'y a pas d'erreurs
 // commentaire des collègues
